@@ -88,7 +88,7 @@ public class actv_Calculadora extends AppCompatActivity implements View.OnClickL
             calcular();
         }
 
-        // Limpa o Visor
+        // Limpa o Visor piro a
         else if (v.getId() == R.id.btlimpar) {
             txtvisor.setText("");
             operador = "";
